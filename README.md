@@ -1,1 +1,1 @@
-# Kuppi-Jetty
+# Jetty template for JAX-RS and WebSocket
